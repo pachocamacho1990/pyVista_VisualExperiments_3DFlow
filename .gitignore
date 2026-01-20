@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files (optional - remove if you want to track outputs)
+*.png
+*.gif
+*.mp4
+
+# Data files (large simulation data)
+*.npz
+*.npy
+*.vtk
+*.vtu
+*.vtp
+
+# Logs
+*.log
